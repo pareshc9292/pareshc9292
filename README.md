@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pareshc9292
-- 👀 I’m interested in Web Devlopement 
-- 🌱 I’m currently learning Angular and Python
+- 👀 I’m interested in DevOps 
+- 🌱 I’m currently learning Linux, AWS and DevOps Tools
 - 📫 How to reach me pareshc1527@gmail.com
 
 <!---
