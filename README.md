@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pareshc9292
 - 👀 I’m interested in DevOps 
-- 🌱 I’m currently learning Linux, AWS and DevOps Tools
+- 🌱 I’m currently preparing for RHCSA (EX 200 v9) Exam
 - 📫 How to reach me pareshc1527@gmail.com
 
 <!---
